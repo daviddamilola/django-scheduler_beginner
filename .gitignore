@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+_django_scheduler
+
+django_scheduler/db.sqlite3
